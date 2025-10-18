@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dewey Brain Interactive",
+  "description": "An intelligent DDC (Dewey Decimal Classification) assistant that helps users generate and verify classification numbers. It includes interactive tools like a DDC quiz, live practice mode, AI chat, and performance insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
